@@ -3,6 +3,7 @@ node-events
 
 @http
 post /my-event
+get /hello
 
 @static
 
